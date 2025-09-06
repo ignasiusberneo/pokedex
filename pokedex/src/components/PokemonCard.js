@@ -1,4 +1,4 @@
-import { Card, CardMedia, CardContent, Typography, Box } from "@mui/material";
+import { Card, CardMedia, CardContent, Typography } from "@mui/material";
 
 export default function PokemonCard({ pokemon, onClick }) {
   return (
